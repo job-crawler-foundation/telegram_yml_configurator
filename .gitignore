@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TelegramYMLConfigurator/v16
+/src/Telegram.YML.Configurator/bin/Debug/netcoreapp3.1
+/src/Telegram.YML.Configurator/obj
